@@ -13,4 +13,4 @@ Favorite Food - Pad Thai
 ## Sean Weston
 Major - Software Engineering
 Age - 21
-Favorite Food - Italian Food
+Favorite Food - Italian!
